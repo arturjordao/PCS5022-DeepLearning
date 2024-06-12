@@ -1,1 +1,1 @@
-# PCS5022-DeepLearning
+# PCS5022 - Deep Learning
