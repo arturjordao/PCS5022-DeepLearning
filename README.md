@@ -4,3 +4,7 @@
 *  [Slides](https://github.com/arturjordao/PCS5022-DeepLearning/blob/main/Slides/Aula%201%20-%20Machine%20Learning%20Basics.pdf)
 * [Video Part 1](https://youtu.be/U0X3cb9Rf4k)
 * [Video Part 2](https://youtu.be/VbK_MyUEfwk)
+
+## FeedForward Networks
+* [Slides](https://github.com/arturjordao/PCS5022-DeepLearning/blob/main/Slides/Aula%202%20-%20FeedFowardNetworks.pdf)
+* [Video](https://youtu.be/yorhIJw9sL8)
