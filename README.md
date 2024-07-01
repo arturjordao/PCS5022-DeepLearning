@@ -13,3 +13,7 @@
 * [Slides](https://github.com/arturjordao/PCS5022-DeepLearning/blob/main/Slides/Aula%203%20-%20BackPropagation_Weights%20Initialization_Learning%20Rate_Optimizers.pdf)
 * [Video Part 1](https://youtu.be/H0o1A9uGDCM)
 * [Video Part 2](https://youtu.be/RIRpT_uybSI)
+
+## Deep Learning
+* [Slides](https://github.com/arturjordao/PCS5022-DeepLearning/blob/main/Slides/Aula%204%20-DeepLearning.pdf)
+* [Video (Coming soon)]
