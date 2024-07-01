@@ -17,3 +17,7 @@
 ## Deep Learning
 * [Slides](https://github.com/arturjordao/PCS5022-DeepLearning/blob/main/Slides/Aula%204%20-DeepLearning.pdf)
 * [Video (Coming soon)]
+
+## Regularization
+* [Slides](https://github.com/arturjordao/PCS5022-DeepLearning/blob/main/Slides/Aula%205%20-%20Regularization.pdf)
+* [Video (Coming soon)]
