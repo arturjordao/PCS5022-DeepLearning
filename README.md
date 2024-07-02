@@ -18,6 +18,6 @@
 * [Slides](https://github.com/arturjordao/PCS5022-DeepLearning/blob/main/Slides/Aula%204%20-DeepLearning.pdf)
 * [Video](https://youtu.be/_XUTIGWNEOU)
 
-## Regularization
+## Regularization and Batch Normalization
 * [Slides](https://github.com/arturjordao/PCS5022-DeepLearning/blob/main/Slides/Aula%205%20-%20Regularization.pdf)
 * [Video](https://youtu.be/UfcUE7bNcuY)
