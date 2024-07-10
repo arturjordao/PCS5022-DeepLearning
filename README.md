@@ -25,4 +25,4 @@
 ## Convolutional Networks, Building Blocks and Residual Networks
 *  [Slides](https://github.com/arturjordao/PCS5022-DeepLearning/blob/main/Slides/Aula%206%20-%20Convolutional%20Networks.pdf)
 * [Video Part 1](https://youtu.be/jy-qLnZclvA)
-* Video Part 2 (coming soon)
+* [Video Part 2](https://youtu.be/fuS4fwMJZgU)
