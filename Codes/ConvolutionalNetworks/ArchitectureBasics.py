@@ -44,7 +44,6 @@ if __name__ == '__main__':
 
     data = Dataset.from_tensor_slices((X, y)).shuffle(4 * 128).batch(128)
     model.fit(data, batch_size=128, verbose=2, epochs=1)
-    y_pred = model.predict(X)
 
     y_pred = model.predict(X)
 
