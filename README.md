@@ -30,3 +30,11 @@
 ## Data Augmentation, Dataset Distillation and Adversarial Attacks
 * [Slides](https://github.com/arturjordao/PCS5022-DeepLearning/blob/main/Slides/Aula%207%20-%20Data%20Augmentation.pdf)
 * Video (coming soon)
+
+## Recurrent Networks
+* [Slides](https://github.com/arturjordao/PCS5022-DeepLearning/blob/main/Slides/Aula%208%20-%20Reccurent%20Networks.pdf)
+* Video (coming soon)
+
+## Transformers, Modern MLP Architectures and Foundation Models
+* [Slides](https://github.com/arturjordao/PCS5022-DeepLearning/blob/main/Slides/Aula%209%20-%20Transformers.pdf)
+* Video (coming soon)
