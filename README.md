@@ -38,3 +38,11 @@
 ## Transformers, Modern MLP Architectures and Foundation Models
 * [Slides](https://github.com/arturjordao/PCS5022-DeepLearning/blob/main/Slides/Aula%209%20-%20Transformers.pdf)
 * Video (coming soon)
+
+## Transfer Learning, Fine-Tuning and Knowledge Distillation
+* [Slides](https://github.com/arturjordao/PCS5022-DeepLearning/blob/main/Slides/Aula%209%20-%20Transformers.pdf)
+* [Video](https://youtu.be/bnEbZ1K49xc)
+
+## Self-supervised and Semi-supervised Learning
+* [Slides](https://github.com/arturjordao/PCS5022-DeepLearning/blob/main/Slides/Aula%2011%20-%20Self-Supervised%20and%20Semi-Supervised%20Learning.pdf)
+* [Video](https://youtu.be/BVMCFedUV8I)
