@@ -40,7 +40,7 @@
 * Video (coming soon)
 
 ## Transfer Learning, Fine-Tuning and Knowledge Distillation
-* [Slides](https://github.com/arturjordao/PCS5022-DeepLearning/blob/main/Slides/Aula%209%20-%20Transformers.pdf)
+* [Slides](https://github.com/arturjordao/PCS5022-DeepLearning/blob/main/Slides/Aula%2010%20-%20TransferLearning%20and%20Knowledge%20Distillation.pdf)
 * [Video](https://youtu.be/bnEbZ1K49xc)
 
 ## Self-supervised and Semi-supervised Learning
