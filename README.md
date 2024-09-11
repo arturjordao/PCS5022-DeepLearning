@@ -29,7 +29,7 @@
 
 ## Data Augmentation, Dataset Distillation and Adversarial Attacks
 * [Slides](https://github.com/arturjordao/PCS5022-DeepLearning/blob/main/Slides/Aula%207%20-%20Data%20Augmentation.pdf)
-* Video (coming soon)
+* [Video](https://youtu.be/0_aV8Lx0API)
 
 ## Recurrent Networks
 * [Slides](https://github.com/arturjordao/PCS5022-DeepLearning/blob/main/Slides/Aula%208%20-%20Reccurent%20Networks.pdf)
