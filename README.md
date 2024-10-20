@@ -38,6 +38,7 @@
 ## Transformers, Modern MLP Architectures and Foundation Models
 * [Slides](https://github.com/arturjordao/PCS5022-DeepLearning/blob/main/Slides/Aula%209%20-%20Transformers.pdf)
 * Video (coming soon)
+* [Video Part 2 - Foundation Models](https://youtu.be/yHLwbmTO8Lk)
 
 ## Transfer Learning, Fine-Tuning and Knowledge Distillation
 * [Slides](https://github.com/arturjordao/PCS5022-DeepLearning/blob/main/Slides/Aula%2010%20-%20TransferLearning%20and%20Knowledge%20Distillation.pdf)
