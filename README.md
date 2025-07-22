@@ -50,3 +50,7 @@
 
 ## Model Merging
 * [Slides](https://github.com/arturjordao/PCS5022-DeepLearning/blob/main/Slides/Aula%2010%20-%20Model%20Merging.pdf)
+
+## Neural Phylogeny
+* [Slides](https://github.com/arturjordao/PCS5022-DeepLearning/blob/main/Slides/Aula%2011%20-%20Neural%20Phylogeny.pdf)
+
