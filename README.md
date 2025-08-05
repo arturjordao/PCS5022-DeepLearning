@@ -60,3 +60,5 @@
 ## Chain-of-Thought, Self-Consistency and Test-time Compute
 * [Slides](https://github.com/arturjordao/PCS5022-DeepLearning/blob/main/Slides/Aula%2012%20-%20CoT%20and%20Self-Consistency.pdf) (Download the raw file)
 
+## GreenAI
+* [Slides](https://github.com/arturjordao/PCS5022-DeepLearning/blob/main/Slides/Aula%2013%20-%20GreenAI.pdf)
