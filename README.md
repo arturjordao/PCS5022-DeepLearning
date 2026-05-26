@@ -1,7 +1,7 @@
 # PCS5022 - Deep Learning
 
 ## Machine Learning Basics
-* Lecture available [here](https://github.com/arturjordao/Machine-Learning).
+* Lectures available [here](https://github.com/arturjordao/Machine-Learning).
   
 I strongly recommend that students be familiar with the topics covered in this lecture.
 
