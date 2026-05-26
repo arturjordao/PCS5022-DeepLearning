@@ -1,9 +1,9 @@
 # PCS5022 - Deep Learning
 
 ## Machine Learning Basics
-*  [Slides](https://github.com/arturjordao/PCS5022-DeepLearning/blob/main/Slides/Aula%201%20-%20Machine%20Learning%20Basics.pdf)
-* [Video Part 1](https://youtu.be/U0X3cb9Rf4k)
-* [Video Part 2](https://youtu.be/VbK_MyUEfwk)
+* Lecture available [here](https://github.com/arturjordao/Machine-Learning).
+  
+I strongly recommend that students be familiar with the topics covered in this lecture.
 
 ## FeedForward Networks
 * [Slides](https://github.com/arturjordao/PCS5022-DeepLearning/blob/main/Slides/Aula%202%20-%20FeedFowardNetworks.pdf)
