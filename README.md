@@ -2,6 +2,8 @@
 
 ## Machine Learning Basics
 * Lectures available [here](https://github.com/arturjordao/Machine-Learning).
+* [Introductory Video Part 1](https://www.youtube.com/watch?v=U0X3cb9Rf4k)
+* [Introductory Video Part 2](https://www.youtube.com/watch?v=VbK_MyUEfwk)
   
 I strongly recommend that students be familiar with the topics covered in this lecture.
 
