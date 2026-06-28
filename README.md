@@ -57,7 +57,7 @@ I strongly recommend that students be familiar with the topics covered in this l
 * [Slides](https://github.com/arturjordao/PCS5022-DeepLearning/blob/main/Slides/Aula%2011%20-%20Neural%20Phylogeny.pdf)
 
 ## Multi-Query Attention and Grouped-Query Attention
-* [Slides](https://github.com/arturjordao/PCS5022-DeepLearning/blob/main/Slides/Aula%2012%20-%20CoT%20and%20Self-Consistency.pdf)
+* [Slides](https://github.com/arturjordao/PCS5022-DeepLearning/blob/main/Slides/Aula%2012%20-%20MQA%20and%20GQA.pdf)
 
 ## Chain-of-Thought, Self-Consistency and Test-time Compute
 * [Slides](https://github.com/arturjordao/PCS5022-DeepLearning/blob/main/Slides/Aula%2012%20-%20CoT%20and%20Self-Consistency.pdf) (Download the raw file)
