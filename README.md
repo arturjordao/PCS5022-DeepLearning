@@ -62,5 +62,8 @@ I strongly recommend that students be familiar with the topics covered in this l
 ## Chain-of-Thought, Self-Consistency and Test-time Compute
 * [Slides](https://github.com/arturjordao/PCS5022-DeepLearning/blob/main/Slides/Aula%2012%20-%20CoT%20and%20Self-Consistency.pdf) (Download the raw file)
 
+## Multimodal Models
+* [Slides](https://github.com/arturjordao/PCS5022-DeepLearning/blob/main/Slides/Multimodal%20Models.pdf) (Download the raw file)
+
 ## GreenAI and My Research Topics
 * [Slides](https://github.com/arturjordao/PCS5022-DeepLearning/blob/main/Slides/Aula%2013%20-%20GreenAI.pdf)
